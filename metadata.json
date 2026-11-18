@@ -1,0 +1,8 @@
+{
+  "name": "Radeon Tracker",
+  "description": "Modern offline TVS Radeon 110cc fuel and route tracker across 20 Himachal branches from Hamirpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
